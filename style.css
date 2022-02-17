@@ -1,0 +1,14 @@
+.color{
+    color: blue;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    align-items: center;
+}
+.box{
+    color: red;
+    text-align: center;
+    align-items: center;
+}
